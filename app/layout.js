@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 
 export const metadata = {
   title: "miniscripteer",
-  description: "Official site of miniscripteer — releases, store, and news.",
+  description: "Official site of miniscripteer. releases, store, and news.",
 };
 
 export default function RootLayout({ children }) {

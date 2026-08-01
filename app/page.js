@@ -26,7 +26,7 @@ export default function Home() {
             miniscripteer
           </h1>
           <p className="mx-auto mt-6 max-w-xl font-mono text-sm text-fog sm:text-base">
-            New sounds, glitched into the timeline. Track the countdown, get
+            Track the countdown, get
             first access to releases, and follow every drop.
           </p>
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
@@ -65,7 +65,7 @@ export default function Home() {
           <HomeCard
             eyebrow="03"
             title="Say hi"
-            body="Bookings, press, or just want to talk shop — the contact form reaches me directly."
+            body="Bookings, press, or just want to talk shop  the contact form reaches me directly."
             href="/contacts"
             cta="Get in touch"
           />
